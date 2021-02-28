@@ -1,0 +1,6 @@
+name: CancelPlayerExhaust
+main: RoMo\CancelPlayerExhaust\CancelPlayerExhaust
+author: RoMo_Official
+version: 1.0.0
+api:
+  - 3.0.0
